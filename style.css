@@ -1,0 +1,53 @@
+.microsoft {
+  width: 100px;
+}
+#ara {
+  margin-left: 25em;
+}
+svg {
+  margin-left: 16px;
+  margin-top: 11px;
+}
+.sag {
+  margin-left: 1.5em;
+}
+.svg1 {
+  background-color: white;
+  border: none;
+}
+.link {
+  text-decoration: none;
+  color: darkblue;
+}
+.link:hover {
+  text-decoration: underline;
+}
+.BasaDon {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: gray;
+  width: 150px;
+  height: 50px;
+  border: none;
+}
+.BasaDon:hover {
+  background-color: white;
+  box-shadow: 0px 1px 3px black;
+}
+.I-link {
+  text-decoration: none;
+  color: gray;
+  font-size: 12px;
+}
+.I-link:hover {
+  text-decoration: underline;
+  color: black;
+  font-size: 12px;
+}
+.Ii-link {
+  text-decoration: none;
+  color: black;
+}
+.Ii-link:hover {
+  color: black;
+}
